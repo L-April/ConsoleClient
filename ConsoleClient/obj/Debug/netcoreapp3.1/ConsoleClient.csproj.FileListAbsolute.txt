@@ -1,0 +1,16 @@
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Code\.NET\ConsoleClient\ConsoleClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+D:\Code\.NET\ConsoleClient\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache
